@@ -58,8 +58,6 @@ RUN_DEPENDS=	bind-tools>=0:dns/bind-tools \
 		pfSense-Status_Monitoring>=0:sysutils/pfSense-Status_Monitoring@${PHP_FLAVOR} \
 		pfSense-repo>=0:sysutils/pfSense-repo \
 		pfSense-upgrade>=0:sysutils/pfSense-upgrade \
-		pfSense-pkg-squid>=0:www/pfSense-pkg-squid \
-		pfSense-pkg-squidGuard>=0:www/pfSense-pkg-squidGuard \
 		pftop>=0:sysutils/pftop \
 		qstats>=0:sysutils/qstats \
 		radvd>=0:net/radvd \

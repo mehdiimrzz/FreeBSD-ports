@@ -59,8 +59,8 @@ RUN_DEPENDS=	bind-tools>=0:dns/bind-tools \
 		pfSense-repo>=0:sysutils/pfSense-repo \
 		pfSense-upgrade>=0:sysutils/pfSense-upgrade \
 		pftop>=0:sysutils/pftop \
-		squid>=0:www/squid \
-		squidGuard>=0:www/squidguard \
+		pfSense-pkg-squid>=0:www/pfSense-pkg-squid \
+		pfSense-pkg-squidGuard>=0:www/pfSense-pkg-squidGuard \
 		qstats>=0:sysutils/qstats \
 		radvd>=0:net/radvd \
 		rate>=0:net-mgmt/rate \
